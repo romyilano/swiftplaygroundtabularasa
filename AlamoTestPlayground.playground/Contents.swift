@@ -5,3 +5,4 @@ import Alamofire
 import PlaygroundSupport
 
 
+print(AlamofireVersionNumber)
