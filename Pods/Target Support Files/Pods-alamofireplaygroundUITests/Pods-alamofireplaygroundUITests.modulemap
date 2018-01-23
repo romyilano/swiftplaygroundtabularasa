@@ -1,0 +1,6 @@
+framework module Pods_alamofireplaygroundUITests {
+  umbrella header "Pods-alamofireplaygroundUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
