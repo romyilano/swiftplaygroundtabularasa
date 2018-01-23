@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:alamofireplayground/../AlamoTestPlayground.playground">
+   </FileRef>
+   <FileRef
       location = "group:alamofireplayground.xcodeproj">
    </FileRef>
    <FileRef

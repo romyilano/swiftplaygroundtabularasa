@@ -53,6 +53,7 @@
 		1C1996C62017047700585A18 /* alamofireplaygroundUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = alamofireplaygroundUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1C1996CA2017047700585A18 /* alamofireplaygroundUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = alamofireplaygroundUITests.swift; sourceTree = "<group>"; };
 		1C1996CC2017047700585A18 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1C1996D8201706A800585A18 /* AlamoTestPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = AlamoTestPlayground.playground; path = ../AlamoTestPlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		48509276870CA3A8336F0B9F /* Pods-alamofireplaygroundTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-alamofireplaygroundTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-alamofireplaygroundTests/Pods-alamofireplaygroundTests.debug.xcconfig"; sourceTree = "<group>"; };
 		66C2BD89D6B8CC5B22F41A90 /* Pods-alamofireplaygroundUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-alamofireplaygroundUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-alamofireplaygroundUITests/Pods-alamofireplaygroundUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		6AC085BA40F61F6ABF45597E /* Pods-alamofireplayground.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-alamofireplayground.release.xcconfig"; path = "Pods/Target Support Files/Pods-alamofireplayground/Pods-alamofireplayground.release.xcconfig"; sourceTree = "<group>"; };
@@ -114,6 +115,7 @@
 		1C1996A92017047600585A18 /* alamofireplayground */ = {
 			isa = PBXGroup;
 			children = (
+				1C1996D8201706A800585A18 /* AlamoTestPlayground.playground */,
 				1C1996AA2017047600585A18 /* AppDelegate.swift */,
 				1C1996AC2017047600585A18 /* ViewController.swift */,
 				1C1996AE2017047600585A18 /* Main.storyboard */,
